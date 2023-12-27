@@ -1,18 +1,44 @@
-<h1 align="center">Hi 👋, I'm Sebastian Wapinski</h1>
-<h3 align="center">Everything Can Be Improved</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastian-wapinski&label=Profile%20views&color=0e75b6&style=flat" alt="sebastian-wapinski" /> </p>
+# Hi 👋, I'm Sebastian Wapinski
 
-- 📫 How to reach me **sebastian.pawel.wapinski@gmail.com**
+### I'm learning front-end development to help businesses grow... and because I like it 😉
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I am a graduate [Akademia Samouka](https://akademiasamouka.pl) in front-end development and the Medical University of Silesia with a master degree in Pharmacy.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Individually created larger projects:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastian-wapinski&show_icons=true&locale=en&layout=compact" alt="sebastian-wapinski" /></p>
+[FOOD SHOP APP](https://github.com/Sebastian-Wapinski/food-shop-app)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-wapinski&show_icons=true&locale=en" alt="sebastian-wapinski" /></p>
+### Individually created smaller projects:
 
+Readme in progress
+
+---
+
+### Connect with me:
+
+By Email: **sebastian.pawel.wapinski@gmail.com**
+
+---
+
+### Languages and Tools:
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) 
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>](https://jestjs.io) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>](https://redux.js.org) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>](https://webpack.js.org)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sebastian-wapinski&show_icons=true&locale=en&layout=compact)](https://github.com/sebastian-wapinski)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastian-wapinski&show_icons=true&locale=en)](https://github.com/sebastian-wapinski)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebastian-wapinski)](https://github.com/sebastian-wapinski)
+
+</div>
