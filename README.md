@@ -12,7 +12,8 @@ I am a graduate [Akademia Samouka](https://akademiasamouka.pl) in front-end deve
 
 ### Individually created smaller projects:
 
-[TableSDKWithTesting](https://github.com/Sebastian-Wapinski/TableSDKWithTesting)
+[TableSDK with Testing](https://github.com/Sebastian-Wapinski/TableSDKWithTesting)
+[Currency Portfolio](https://github.com/Sebastian-Wapinski/currencyPortfolio)
 
 ---
 
