@@ -12,7 +12,7 @@ I am a graduate [Akademia Samouka](https://akademiasamouka.pl) in front-end deve
 
 ### Individually created smaller projects:
 
-Readme in progress
+[TableSDKWithTesting])(https://github.com/Sebastian-Wapinski/TableSDKWithTesting)
 
 ---
 
