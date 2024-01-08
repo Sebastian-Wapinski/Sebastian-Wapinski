@@ -15,7 +15,8 @@ I am a graduate [Akademia Samouka](https://akademiasamouka.pl) in front-end deve
 
 [TableSDK with Testing](https://github.com/Sebastian-Wapinski/TableSDKWithTesting) <br />
 [Currency Portfolio](https://github.com/Sebastian-Wapinski/currencyPortfolio) <br />
-[Friendly Animals Blog](https://github.com/Sebastian-Wapinski/friendly-animals-blog)
+[Friendly Animals Blog](https://github.com/Sebastian-Wapinski/friendly-animals-blog) <br />
+[Report of Adverse Drug Reaction](https://github.com/Sebastian-Wapinski/report-of-adverse-drug-reaction)
 
 ---
 
